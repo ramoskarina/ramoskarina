@@ -7,5 +7,7 @@ I am a Biologist specialist in medically important mosquitoes, currently an unde
 - 🤝 I’m looking to collaborate on data science and data analysis related to my field of research. 
 - 📫 How to reach me: karinaramos@usp.br
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ramoskarina)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramoskarina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ramoskarina&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoskarina&layout=compact&langs_count=6&theme=buefy"/>
+</div>
