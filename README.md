@@ -9,5 +9,5 @@ I am a Biologist specialist in medically important mosquitoes, currently undergr
 
  <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ramoskarina&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoskarina&layout=compact&theme=buefy"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoskarina&layout=compact&theme=buefy&langs_count=10"/>
 </div>
